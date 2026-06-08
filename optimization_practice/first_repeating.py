@@ -102,4 +102,4 @@ print("Brute Force:", first_repeating_brute(nums))
 print("Optimized:", first_repeating_fast(nums))      
 nums = [1, 2, 3, 4, 5]
 print("Brute Force:", first_repeating_brute(nums))  
-print("Optimized:", first_repeating_fast(nums))      # 
+print("Optimized:", first_repeating_fast(nums))      
